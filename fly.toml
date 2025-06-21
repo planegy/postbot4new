@@ -1,0 +1,4 @@
+app = "planegy-postbot"
+
+[env]
+PORT = "8080"
